@@ -1,0 +1,11 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "clientId": "YOUR_CLIENT_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "ticketCategories": {
+    "1v1": "CATEGORY_ID_1v1",
+    "2v2": "CATEGORY_ID_2v2",
+    "3v3": "CATEGORY_ID_3v3"
+  },
+  "allowedRolesEndMatch": ["ROLE_ID_1", "ROLE_ID_2"]
+}
